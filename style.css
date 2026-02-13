@@ -36,7 +36,6 @@ body {
 .btn {
     display: inline-block;
     padding: 12px 28px;
-    /* Темно-красный цвет под стиль Resident Evil/Клэр Редфилд */
     background-color: #b91c1c; 
     color: #ffffff;
     text-decoration: none;
